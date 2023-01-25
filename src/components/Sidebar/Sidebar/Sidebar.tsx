@@ -15,7 +15,7 @@ import AccountsList from "../AccountList/AccountList";
 import { auth, db } from "../../../firebase/firebase";
 import { Account, accountsState } from "../../../atom/accountsAtom";
 
-const SidebarEl = styled.aside`
+const SidebarEl = styled.section`
   z-index: 6;
   height: 100%;
   width: 25%;

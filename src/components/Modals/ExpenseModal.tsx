@@ -2,6 +2,7 @@ import { useState } from "react";
 import { collection, doc, increment, writeBatch } from "firebase/firestore";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { useSetRecoilState } from "recoil";
+import { nanoid } from "nanoid";
 import styled from "styled-components";
 import { AiOutlineCalendar } from "react-icons/ai";
 import toast from "react-hot-toast";
@@ -117,7 +118,7 @@ const ExpenseModal: React.FC<ModalProps> = ({ accounts, setOpen }) => {
           ...prev.myTransactions,
           {
             ...newTransaction,
-            id: crypto.randomUUID(),
+            id: nanoid(),
           },
         ],
       }));

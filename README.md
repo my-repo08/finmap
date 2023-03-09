@@ -221,21 +221,21 @@
 
 Приложение адаптировано под комфортное использование на мобильном телефоне:
 
-<div align="center">
+<div>
   <kbd>
     <img width="400" src="https://user-images.githubusercontent.com/122017847/224166807-8a564d3b-9b8f-464d-9f70-30cdc386571d.gif"/>
   </kbd>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+
   <kbd>
     <img width="400" src="https://user-images.githubusercontent.com/122017847/224169078-c51b766d-e13d-44b7-81e6-c41e8665a952.gif" />
   </kbd>
 </div>
 <br />
-<div align="center">
+<div>
  <kbd>
     <img width="400" src="https://user-images.githubusercontent.com/122017847/224174141-2936fbf5-9b54-4078-8d16-84456b1a582f.gif" />
  </kbd>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+
   <kbd>
     <img width="400" src="https://user-images.githubusercontent.com/122017847/224169233-b4ef0b52-1b7e-4c81-827c-3366c34f8d6b.gif" />
  </kbd>
